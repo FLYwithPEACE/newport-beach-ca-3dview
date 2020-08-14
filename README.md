@@ -1,1 +1,2 @@
-## This is a 3D view of Newport Beach, CA
+# Now displaying: https://github.com/FLYwithPEACE/newport-beach-ca-3dview
+Repository for hosting projects.
